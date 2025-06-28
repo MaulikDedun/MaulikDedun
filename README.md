@@ -47,6 +47,10 @@ I'm not just learning to code — I'm here to **create and improve**. I enjoy tu
   <img src="https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </p>
 
+## 🔎 Profile Visits 
+![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=MaulikDedun.MaulikDedun&left_color=blue&right_color=green)
+
+
 
 ## 📌 Find Me Online
 
